@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: group_3_project_weather
+    tables:
+      - name: weather_daily_Jan2025
+      - name: flights_selected
+      - name: airports
